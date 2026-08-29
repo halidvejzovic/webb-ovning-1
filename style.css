@@ -1,0 +1,33 @@
+header{
+    text-align: center;
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aqua;
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+}
+
+h1{
+    background-color: blueviolet;
+    margin: auto;
+    border-width: 1px;
+    border: solid;
+    border-color: darkgreen;
+}
+
+img{
+    display: block;
+    margin: auto;
+    mask-border-width: 1px;
+    border: solid;
+    border-color: yellowgreen;
+}
+
+main{
+    background-color: antiquewhite;
+}
+
+p{
+    text-align: center;
+}
