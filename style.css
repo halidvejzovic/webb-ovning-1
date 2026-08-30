@@ -16,12 +16,19 @@ h1{
     border-color: darkgreen;
 }
 
+h3{
+    text-align: center;
+    padding-top: 10px;
+}
+
+
 img{
     display: block;
     margin: auto;
     mask-border-width: 1px;
     border: solid;
     border-color: yellowgreen;
+    padding-top: 10px;
 }
 
 main{
@@ -31,3 +38,4 @@ main{
 p{
     text-align: center;
 }
+
