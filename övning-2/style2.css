@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(111, 111, 210); /*backgrundsfäärg*/
+    color:aqua /*textfärg*/
+}
+
+h1{
+    text-align: center; /*texten centreras*/
+}
+
+section>p{      /*första p-elementtet i section-elementet*/
+    border: 1px solid black;   /*ram runt p-elementet*/
+    font-size: 1.5em; /*förstårninga av texten med 1,5  gånger av sin ursprungliga storlk*/
+}
+
+.last{
+    text-align: justify; /*gör så att textstycket har samma bredd detta fanns inte med i underlaget så  jag kolla i developer.mozilla.org saamt copilot*/
+}
